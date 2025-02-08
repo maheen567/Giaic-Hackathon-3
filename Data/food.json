@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "slug": "fresh-lime",
+      "name": "Fresh Lime",
+      "category": "Drink",
+      "price": 38.00,
+      "originalPrice": 45.00,
+      "tags": ["Refreshing", "Popular", "Drink"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-9.png",
+      "description": "Refreshing fresh lime drink made with natural ingredients.",
+      "available": true
+    },
+    {
+      "id": 2,
+      "slug": "chocolate-muffin",
+      "name": "Chocolate Muffin",
+      "category": "Dessert",
+      "price": 28.00,
+      "originalPrice": 30.00,
+      "tags": ["Dessert", "Sweet", "Treats"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-5.png",
+      "description": "Soft and rich chocolate muffin topped with chocolate chips.",
+      "available": true
+    },
+    {
+      "id": 3,
+      "slug": "burger",
+      "name": "Burger",
+      "category": "Sandwich",
+      "price": 21.00,
+      "originalPrice": 45.00,
+      "tags": ["Popular", "Juicy", "Grill Perfection"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-1.png",
+      "description": "Juicy beef burger with fresh lettuce, tomatoes, and cheese.",
+      "available": true
+    },
+    {
+      "id": 4,
+      "slug": "country-burger",
+      "name": "Country Burger",
+      "category": "Sandwich",
+      "price": 45.00,
+      "originalPrice": 50.00,
+      "tags": ["Burgerlicious", "Juicy", "Grill Perfection"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-2.png",
+      "description": "Classic country-style burger served with fries.",
+      "available": true
+    },
+    {
+      "id": 5,
+      "slug": "pizza",
+      "name": "Pizza",
+      "category": "Pizza",
+      "price": 43.00,
+      "originalPrice": 50.00,
+      "tags": ["Cheesy", "Vegetarian", "Slice Heaven"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-6.png",
+      "description": "Delicious vegetarian pizza topped with fresh vegetables and cheese.",
+      "available": true
+    },
+    {
+      "slug": "chicken-chup",
+      "id": 6,
+      "name": "Chicken Chup",
+      "category": "Chicken",
+      "price": 12.00,
+      "originalPrice": 15.00,
+      "tags": ["Snack", "Crispy", "Delicious"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-4.png",
+      "description": "Crispy fried chicken bites served with dipping sauce.",
+      "available": true
+    },
+    {
+      "slug": "drink",
+      "id": 7,
+      "name": "Drink",
+      "category": "Drink",
+      "price": 23.00,
+      "originalPrice": 28.00,
+      "tags": ["Drink", "Crispy", "Popular"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-3.png",
+      "description": "A crisp and bubbly drink that adds sparkle to every moment!",
+      "available": true
+    },
+    {
+      "slug": "sandwich",
+      "id": 8,
+      "name": "Sandwich",
+      "category": "Sandwich",
+      "price": 25.00,
+      "originalPrice": 30.00,
+      "tags": ["Sandwich", "Crispy", "Snack"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-8.png",
+      "description": "Irresistible sandwiches packed with flavors for every craving!",
+      "available": true
+    },
+    {
+      "slug": "cheese-butter",
+      "id": 9,
+      "name": "Cheese Butter",
+      "category": "Spread",
+      "price": 10.00,
+      "originalPrice": 15.00,
+      "tags": ["Butter", "|", "Cheese", "|", "Popular"],
+      "image": "https://sanity-nextjs-rouge.vercel.app/food/food-7.png",
+      "description": "Delicious cheese butter, perfect for spreading bliss on every slice!",
+      "available": true
+    }
+  ]
